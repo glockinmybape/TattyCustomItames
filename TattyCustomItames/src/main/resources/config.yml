@@ -1,0 +1,21 @@
+items:
+  swordgod:
+    name: '&bМеч бога'
+    icon:
+      material: DIAMOND_SWORD
+      data: 0
+      ammount: 1
+    lore:
+      - '&cTEST LORE'
+      - '&bTEST LORE'
+      - '&dTEST LORE'
+    enchants:
+      - 'DAMAGE_ALL:100'
+    effects:
+      - 'REGENERATION:2'
+    sound:
+      - 'UI_BUTTON_CLICK:1.0:1.0'
+    functions:
+      break: false #Предмет никогда не сломаеться
+      drop: false #Не дропаеться при убийстве
+      save: true #Сохраняеться после убийства

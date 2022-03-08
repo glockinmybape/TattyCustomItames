@@ -1,0 +1,11 @@
+org\glockinmybape\tattycustomitames\datas\Item.class
+org\glockinmybape\tattycustomitames\runnables\ItemsCheck.class
+org\glockinmybape\tattycustomitames\manager\ItemManager.class
+org\glockinmybape\tattycustomitames\commands\AutoTabCompleter.class
+org\glockinmybape\tattycustomitames\commands\GiveCommand.class
+org\glockinmybape\tattycustomitames\datas\IPlayer.class
+org\glockinmybape\tattycustomitames\Main.class
+org\glockinmybape\tattycustomitames\manager\PlayerManager.class
+org\glockinmybape\tattycustomitames\listeners\Item.class
+org\glockinmybape\tattycustomitames\listeners\PlayerListener.class
+org\glockinmybape\tattycustomitames\utils\Configs.class

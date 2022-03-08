@@ -1,0 +1,8 @@
+name: TattyCustomItames
+version: '1.0'
+main: org.glockinmybape.tattycustomitames.Main
+authors: [ glockinmybape ]
+description: TattyCustomItames
+commands:
+  tgive:
+    aliases: [tattygive, tattyg]
